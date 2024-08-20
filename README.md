@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ammar</h1>
-<h3 align="center">IT Architecture Engineering Student</h3>
+<h3 align="center">Software Architecture Engineer</h3>
 
 📫: Reach me out! <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%;">
 
