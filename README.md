@@ -85,14 +85,6 @@ Ingénieur logiciel passionné, certifié **SAP** et **Professional Scrum Produc
 - Automatisation **CI/CD** avec Jenkins
 - Supervision avec **Grafana** et **Prometheus**
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmedbnammar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedbnammar&layout=compact&theme=radical)
-
-</div>
 
 ## 🌍 Langues
 - **Français**: B2 - Compétence professionnelle
